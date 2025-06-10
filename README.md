@@ -64,5 +64,6 @@ Il modulo di contatto utilizza EmailJS per inviare email direttamente dal browse
 
 ## 🔗 Link Utili
 
-* **Visualizza il Progetto:** [https://sadsotti.github.io/personal-website/](https://sadsotti.github.io/personal-website/) * **start2impact:** [https://www.start2impact.it/](https://www.start2impact.it/)
+* **Visualizza il Progetto:** [https://sadsotti.github.io/personal-website/](https://sadsotti.github.io/personal-website/) }]
+* **start2impact:** [https://www.start2impact.it/](https://www.start2impact.it/)
 * **EmailJS:** [https://www.emailjs.com/](https://www.emailjs.com/)
