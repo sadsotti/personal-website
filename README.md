@@ -1,6 +1,6 @@
 # Il Mio Sito Web - Lorenzo Sottile
 
-Questo repository contiene il codice sorgente del mio stio web personale, sviluppato come progetto pratico nell'ambito del percorso **HTML & CSS** di **start2impact**.
+Questo repository contiene il codice sorgente del mio sito web personale, sviluppato come progetto pratico nell'ambito del percorso **HTML & CSS** di **start2impact**.
 
 ---
 
