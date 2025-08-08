@@ -13,11 +13,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
             emailjs.send('service_caw3upe', 'template_bn2igxh', formParams)
                 .then(function() {
-                    alert('Messaggio inviato con successo!');
+                    alert('Message sent successfully!');
                     contactForm.reset(); 
                 }, function(error) {
-                    alert('Si è verificato un errore durante l\'invio del messaggio: ' + JSON.stringify(error));
-                    console.error("Errore EmailJS:", error); 
+                    alert('An error occurred while sending the message: ' + JSON.stringify(error));
+                    console.error("EmailJS Error:", error); 
                 });
         });
     }
