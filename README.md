@@ -1,6 +1,6 @@
 # My Website - Lorenzo Sottile
 
-This repository contains the source code of my personal website, developed as a practical project within the **HTML & CSS** track of **start2impact**.
+This repository contains the source code of my personal website, developed as a practical project within the **HTML & CSS** course at **start2impact**.
 
 ---
 
