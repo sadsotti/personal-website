@@ -66,8 +66,9 @@ The contact form uses EmailJS to send emails directly from the browser. To make 
 
 ## 🔗 Useful Links
 
-* **View the Project:** [https://sadsotti.github.io/personal-website/](https://sadsotti.github.io/personal-website/)  
-* **start2impact:** [https://www.start2impact.it/](https://www.start2impact.it/)  
-* **EmailJS:** [https://www.emailjs.com/](https://www.emailjs.com/)
+* **View the Project:** [https://sadsotti.github.io/personal-website/](https://sadsotti.github.io/personal-website/)
+* **EmailJS:** [https://www.emailjs.com/](https://www.emailjs.com/)  
+* **start2impact:** [https://www.start2impact.it/](https://www.start2impact.it/)
+* **My LinkedIn:** [https://www.linkedin.com/in/lorenzo-sottile/](https://www.linkedin.com/in/lorenzo-sottile/)  
 
 ---
